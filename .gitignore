@@ -1,0 +1,8 @@
+target/
+*.class
+finance_data.json
+.settings/
+.classpath
+.project
+.idea/
+*.iml
